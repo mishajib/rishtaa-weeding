@@ -1,2 +1,1 @@
-# https://mishajib.github.io/rishtaa-weeding/
-# rishtaa-weeding
+# [Rishtaa-Weeding](https://mishajib.github.io/rishtaa-weeding/)
